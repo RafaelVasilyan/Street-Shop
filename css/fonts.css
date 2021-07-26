@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "man-reg";
+    src: url(../fonts/Manrope-Regular.ttf);
+}
+@font-face {
+    font-family: "man-bold";
+    src: url(../fonts/Manrope-Bold.ttf);
+}
+@font-face {
+    font-family: 'man-ebold';
+    src: url(../fonts/Manrope-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'rob-reg';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
